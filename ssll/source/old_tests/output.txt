@@ -1,0 +1,13 @@
+<empty list>
+
+[x]
+
+[Y],[x]
+
+X is not in the list [Y],[x]
+
+Y is in the list [Y],[x]
+
+x is in the list [Y],[x]
+
+X is not in the list [Y],[x]

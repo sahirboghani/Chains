@@ -1,0 +1,21 @@
+<empty list>
+
+[x]
+
+[x],[y]
+
+xy
+[x],[y]
+2[x],[y]
+
+[x],[x],[y]
+
+[Y],[x],[x],[y]
+
+X is not in the list [Y],[x],[x],[y]
+
+Y is in the list [Y],[x],[x],[y]
+
+x is in the list [Y],[x],[x],[y]
+
+X is not in the list [Y],[x],[x],[y]
